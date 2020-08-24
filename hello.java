@@ -3,5 +3,5 @@ public class hello{
 	private
 public
 static
-
+void
 }
